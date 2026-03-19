@@ -1,2 +1,3 @@
 # Data-Analysis-projects
-Excel-based analysis of Superstore Sales data. Covers data cleaning, customer segment filtering, formatted reporting (Corporate segment focus), sorting by Region/Province/Sales, conditional formatting for top orders and profit/loss, and Pivot Tables to identify top-performing and loss-making product sub-categories by region.
+Excel-based data analysis projects: (1) Superstore Sales – customer segmentation, conditional formatting, sorting, and pivot tables for profit/loss insights. (2) TechnoServe SaaS Pipeline – hypothesis formulation, sales funnel analysis, lead conversion insights, and CEO-ready recommendations.
+
